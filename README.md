@@ -1,6 +1,6 @@
 # Value-Complemented Monitoring Framework (VCMF)
 
-This repository contains supplementary material for the paper "_Towards a Value-Complemented Framework forEnabling Human Monitoring in Cyber-Physical Systems_".
+This repository contains supplementary material for the submitted paper "_Towards a Value-Complemented Framework for Enabling Human Monitoring in Cyber-Physical Systems_"
 
 
 ### Abstract.
