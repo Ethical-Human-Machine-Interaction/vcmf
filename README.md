@@ -26,9 +26,12 @@ Based on this, we lay out a research roadmap guiding our ongoing work in this ar
 
 
 To motivate the challenges and benefits of human-monitoring at runtime in CPS, we use  an example Use Case that promotes increasing worker safety in a shop-floor environment.
-In the Use Case snippets we focus on  shop floor worker entering a restricted or dangerous area (e.g., areas with autonomous robots)
+In the Use Case snippets we focus on  shop floor worker entering a restricted or dangerous area (e.g., areas with autonomous robots).
+[Full Spreadsheet with Examples](value-complemented-monitoring-framework-example.xlsx)
 
-| Step     | Artifac      |
+<br><br>
+
+| Step     | Artifact      |
 | ------------- | ------------- |
 | 1  :closed_book: |[Personas](artifacts/Personas.pdf) |
 |2 :notebook: |[Monitoring Use Case](artifacts/MonitoringUseCase.pdf) |
