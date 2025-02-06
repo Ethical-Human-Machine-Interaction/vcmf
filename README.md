@@ -18,7 +18,7 @@ of eliciting and creating runtime monitors.<br>
 Whittle, further leveraging the concept of value tactics. The goal is to tie functional and non-functional monitoring requirements to human values and establish traceability between values, requirements, and actors.
 Based on this, we lay out a research roadmap guiding our ongoing work in this area.
 </div>
-<br><br><br><br>
+<br><br>
 
 ### Framework Overview & Artifacts
 
@@ -29,10 +29,11 @@ To motivate the challenges and benefits of human-monitoring at runtime in CPS, w
 In the Use Case snippets we focus on  shop floor worker entering a restricted or dangerous area (e.g., areas with autonomous robots).
 [Full Spreadsheet with Examples](value-complemented-monitoring-framework-example.xlsx)
 
-<br><br>
+<br>
 
 | Step     | Artifact      |
 | ------------- | ------------- |
+| ◻️ |[System Use Case](artifacts/SystemUseCase.pdf) |
 | 1  :closed_book: |[Personas](artifacts/Personas.pdf) |
 |2 :notebook: |[Monitoring Use Case](artifacts/MonitoringUseCase.pdf) |
 | 3  :green_book:|[Value Analysis](artifacts/ValueAnalysis.pdf) |
